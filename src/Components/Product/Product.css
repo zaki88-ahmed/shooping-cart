@@ -1,0 +1,16 @@
+.products__title a{
+    text-decoration: none;
+    color:#000;
+}
+
+.products__title a:hover{
+    color:#ff9900
+}
+
+.products__price span{
+    color:#ff9900
+}
+
+.products__btns{
+    margin-top:20vh;
+}
